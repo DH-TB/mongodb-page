@@ -1,0 +1,5 @@
+.idea/
+.idea/libraries/mongodb_page_node_modules.xml
+.idea/mongoSettings.xml
+.idea/watcherTasks.xml
+node_modules
